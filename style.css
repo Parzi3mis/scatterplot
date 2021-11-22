@@ -1,0 +1,12 @@
+body {
+    height: 100%;
+}
+
+.tooltip{
+    position: absolute;
+    width: auto;
+    height: auto;
+    font-family: simsun;
+    font-size: 14px;
+}
+/* YOUR CSS CODE GOES HERE */
